@@ -8,5 +8,5 @@ scikit-learn：`conda install scikit-learn`
 ---
 - 开发成员:
     - 王强:[ActStrady](https://github.com/ActStrady)
-    - 韩思远:[Hansiyuan131](https://github.com/Hansiyuan131)
-    - 杨恒:[Yang19960405](https://github.com/Yang19960405)
+    - 韩思远：
+    - 杨恒：
