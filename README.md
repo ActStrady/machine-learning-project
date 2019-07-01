@@ -3,7 +3,9 @@
 > 基本库：  
 pandas:`conda install pandas`   
 seaborn:`conda install seaborn`     
-scikit-learn：`conda install scikit-learn`
+scikit-learn：`conda install scikit-learn`    
+matplotlib：`conda install matplotlib`    
+numpy：`conda install numpy`
 ---
 ---
 - 开发成员:
